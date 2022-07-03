@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
-  "MAX_SUPPLY": 992,
+  "NFT_NAME": "MEGA KURS 1.0",
+  "SYMBOL": "MEGA",
+  "MAX_SUPPLY": 420,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-nft",
   "SHOW_BACKGROUND": true
 }
