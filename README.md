@@ -1,18 +1,8 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to Mega Kurs 1.0 NFT 💎
 
-![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
+![](file:///C:/Users/filip/OneDrive/Desktop/MY%20PROJECTS/bg.png.jpg)
 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
-To find out more please visit:
-
-[📺 YouTube](https://www.youtube.com/AliSolanki)
-
-[💬 Telegram](https://t.me/studentsamaj)
-
-[🐦 Twitter](https://twitter.com/thestripesnft)
-
-[ℹ️ Website](https://thestripesnft.com/)
 
 # The Stripes NFT minting dapp 🔥
 
@@ -91,16 +81,16 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>The Stripes NFT</title>
-<meta name="description" content="Mint your Stripes NFT" />
+<title>Mega Kurs 1.0</title>
+<meta name="description" content="Mint your MegaKurs NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
 
 ```json
 {
-  "short_name": "TSNFT",
-  "name": "The Stripes NFT"
+  "short_name": "MEGAK",
+  "name": "Mega Kurs NFT"
 }
 ```
 
