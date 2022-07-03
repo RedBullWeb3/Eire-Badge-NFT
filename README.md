@@ -1,8 +1,9 @@
 # MegaKurs NFT minting dapp 🔥
 
+https://mega-kurs-nft-1-0.vercel.app/
+
 ![megaknft2](https://user-images.githubusercontent.com/65456462/177060321-b4456622-2aad-4b99-ad1e-15dfd9791621.png)
 
-https://mega-kurs-nft-1-0.vercel.app/
 
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
