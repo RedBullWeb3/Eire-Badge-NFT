@@ -1,10 +1,7 @@
-# Welcome to Mega Kurs 1.0 NFT 💎
-
-![](file:///C:/Users/filip/OneDrive/Desktop/MY%20PROJECTS/bg.png.jpg)
-
-All the code in these repos was created and explained by HashLips on the main YouTube channel.
-
 # MegaKurs NFT minting dapp 🔥
+
+![megaknft](https://user-images.githubusercontent.com/65456462/177060230-aa4250ad-cb66-4410-9acd-9dcb23605de9.png)
+
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
