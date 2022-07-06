@@ -6,13 +6,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "MEGA KURS 1.0",
-  "SYMBOL": "MEGA",
-  "MAX_SUPPLY": 420,
+  "NFT_NAME": "Mega Kurs Monsters",
+  "SYMBOL": "MKM",
+  "MAX_SUPPLY": 300,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "DISPLAY_COST": 1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-nft",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-monsters",
   "SHOW_BACKGROUND": true
 }
