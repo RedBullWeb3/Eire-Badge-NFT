@@ -9,8 +9,8 @@ const truncate = (input, len) =>
   input.length > len ? `${input.substring(0, len)}...` : input;
 
 export const StyledButton = styled.button`
-  padding: 10px;
-  border-radius: 50px;
+  padding: 5px;
+  border-radius: 5px;
   border: none;
   background-color: var(--secondary);
   padding: 10px;
@@ -411,7 +411,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "black",
             }}
           >
             Please make sure you are connected to the right network (
