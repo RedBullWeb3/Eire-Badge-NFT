@@ -2,7 +2,11 @@
 
 https://mega-kurs-nft-1-0.vercel.app/
 
+Alpha:
 ![megaknft2](https://user-images.githubusercontent.com/65456462/177060321-b4456622-2aad-4b99-ad1e-15dfd9791621.png)
+
+Beta:
+![produkcja](https://user-images.githubusercontent.com/65456462/178069242-552e9084-d957-4498-988f-4487ecef8cf8.png)
 
 
 
