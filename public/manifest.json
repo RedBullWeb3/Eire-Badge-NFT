@@ -1,6 +1,6 @@
 {
-  "short_name": "MegaK1",
-  "name": "Mega Kurs 1.0",
+  "short_name": "MKM",
+  "name": "Mega Kurs Monsters",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +20,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#FFEFD5",
+  "background_color": "#FFEFD5"
 }
