@@ -71,6 +71,6 @@ export const TextDescription = styled.p`
 
 export const StyledClickable = styled.div`
   :active {
-    opacity: 1.2;
+    opacity: 0,6;
   }
 `;
