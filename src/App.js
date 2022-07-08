@@ -66,12 +66,12 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledLogo = styled.img`
-  width: 200px;
-  @media (min-width: 767px) {
-    width: 300px;
+  width: 400px;
+  @media (min-width: 1064px) {
+    width: 500px;
   }
-  transition: width 0.5s;
-  transition: height 0.5s;
+  transition: width 1s;
+  transition: height 1s;
 `;
 
 export const StyledImg = styled.img`
