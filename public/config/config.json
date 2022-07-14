@@ -9,9 +9,9 @@
   "NFT_NAME": "Mega Kurs Monsters",
   "SYMBOL": "MKM",
   "MAX_SUPPLY": 300,
-  "WEI_COST": 285000,
+  "WEI_COST": 505000,
   "DISPLAY_COST": 0.005,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 505000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-monsters",
   "SHOW_BACKGROUND": true
