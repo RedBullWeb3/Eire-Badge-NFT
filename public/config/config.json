@@ -1,16 +1,16 @@
 {
-  "CONTRACT_ADDRESS": "0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0x18D1C935730Ac9C8194860737E3F376ED6a07C4C",
+  "SCAN_LINK": "https://etherscan.io/token/0x18d1c935730ac9c8194860737e3f376ed6a07c4c",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "Mega Kurs Monsters",
   "SYMBOL": "MKM",
   "MAX_SUPPLY": 300,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 1,
+  "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-monsters",
