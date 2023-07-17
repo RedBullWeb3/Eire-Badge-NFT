@@ -1,4 +1,4 @@
-# Welcome to The Stripes NFT 💎
+# Welcome to EireNFT 💎
 
 ![](https://github.com/The-Stripes-NFT/nft-minting-app/blob/main/logo-blob.png)
 
@@ -6,15 +6,9 @@ All the code in these repos was created and explained by HashLips on the main Yo
 
 To find out more please visit:
 
-[📺 YouTube](https://www.youtube.com/AliSolanki)
 
-[💬 Telegram](https://t.me/studentsamaj)
 
-[🐦 Twitter](https://twitter.com/thestripesnft)
-
-[ℹ️ Website](https://thestripesnft.com/)
-
-# The Stripes NFT minting dapp 🔥
+# The Eire NFT minting dapp 🔥
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
@@ -55,8 +49,8 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "The Stripes NFT",
-  "SYMBOL": "TSNFT",
+  "NFT_NAME": "Eire NFT",
+  "SYMBOL": "ENFT",
   "MAX_SUPPLY": 992,
   "WEI_COST": 75000000000000000,
   "DISPLAY_COST": 0.075,
