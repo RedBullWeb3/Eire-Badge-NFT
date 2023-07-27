@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xb1e67Fb54b5C516C3dB6BB53d8DBBc53B8384f69",
   "SCAN_LINK": "https://sepolia.etherscan.io/token/0xb1e67fb54b5c516c3db6bb53d8dbbc53b8384f69",
   "NETWORK": {
-    "NAME": "Sepolia test network",
+    "NAME": "Sepolia",
     "SYMBOL": "ETH",
     "ID": 42
   },
