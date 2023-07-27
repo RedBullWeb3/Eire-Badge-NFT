@@ -1,18 +1,19 @@
 {
   "CONTRACT_ADDRESS": "0xb1e67Fb54b5C516C3dB6BB53d8DBBc53B8384f69",
-  "SCAN_LINK": "https://sepolia.etherscan.io/token/0xb1e67fb54b5c516c3db6bb53d8dbbc53b8384f69",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
   "NETWORK": {
-    "NAME": "Sepolia Testnet",
-    "SYMBOL": "SepoliaETH",
-    "ID": 11155111
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
-  "NFT_NAME": "EireHarvest",
-  "SYMBOL": "EHH",
-  "MAX_SUPPLY": 33,
-  "WEI_COST": 505000,
-  "DISPLAY_COST": 0.005,
-  "GAS_LIMIT": 505000,
+  "NFT_NAME": "Mega Kurs 1.0 NFT",
+  "SYMBOL": "MEGAK1",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-monsters",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-nft",
   "SHOW_BACKGROUND": true
 }
+
