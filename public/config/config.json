@@ -1,19 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xb1e67Fb54b5C516C3dB6BB53d8DBBc53B8384f69",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "CONTRACT_ADDRESS": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd9145CCE52D386f254917e481eB44e9943F39138",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Mega Kurs 1.0 NFT",
-  "SYMBOL": "MEGAK1",
-  "MAX_SUPPLY": 420,
-  "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 4,
+  "NFT_NAME": "Eire Harvest",
+  "SYMBOL": "EHH",
+  "MAX_SUPPLY": 431,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-nft",
   "SHOW_BACKGROUND": true
 }
-
