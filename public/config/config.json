@@ -1,14 +1,14 @@
 {
-  "CONTRACT_ADDRESS": "0xb1e67Fb54b5C516C3dB6BB53d8DBBc53B8384f69",
-  "SCAN_LINK": "https://sepolia.etherscan.io/token/0xb1e67fb54b5c516c3db6bb53d8dbbc53b8384f69",
+  "CONTRACT_ADDRESS": "0xA19dcf80CD96c0234D57E3AE99C2f06a9a159Ea6",
+  "SCAN_LINK": "https://polygonscan.com/address/0xa19dcf80cd96c0234d57e3ae99c2f06a9a159ea6",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "EireHarvest",
   "SYMBOL": "EHH",
-  "MAX_SUPPLY": 33,
+  "MAX_SUPPLY": 431,
   "WEI_COST": 505000,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 505000,
