@@ -1,9 +1,9 @@
 {
-  "CONTRACT_ADDRESS": "0x18D1C935730Ac9C8194860737E3F376ED6a07C4C",
-  "SCAN_LINK": "https://etherscan.io/token/0x18d1c935730ac9c8194860737e3f376ed6a07c4c",
+  "CONTRACT_ADDRESS": "0xb1e67Fb54b5C516C3dB6BB53d8DBBc53B8384f69",
+  "SCAN_LINK": "https://sepolia.etherscan.io/token/0xb1e67fb54b5c516c3db6bb53d8dbbc53b8384f69",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
     "ID": 1
   },
   "NFT_NAME": "EireHarvest",
