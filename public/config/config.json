@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x9C865B325E3F857020FDc24182a01831D0Ea79e4",
+  "CONTRACT_ADDRESS": "0xAFA7564C9B1A150a6fd83907d6748c06b2f50d1e",
   "SCAN_LINK": "https://sepolia.etherscan.io/address/0x9c865b325e3f857020fdc24182a01831d0ea79e4",
   "NETWORK": {
-    "NAME": "Sepolia test network",
-    "SYMBOL": "SepoliaETH",
-    "ID": 11155111
+    "NAME": "Linea Testnet",
+    "SYMBOL": "ETH",
+    "ID": 59140
   },
   "NFT_NAME": "Eire Harvest",
   "SYMBOL": "EHH",
