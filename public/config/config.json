@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "EireHarvest",
   "SYMBOL": "EHH",
-  "MAX_SUPPLY": 413,
+  "MAX_SUPPLY": 33,
   "WEI_COST": 505000,
   "DISPLAY_COST": 0.005,
   "GAS_LIMIT": 505000,
