@@ -3,7 +3,7 @@
   "SCAN_LINK": "https://sepolia.etherscan.io/address/0xE1AbE724C658E46613d5f5C9fD907E9A135704E1",
   "NETWORK": {
     "NAME": "Sepolia",
-    "SYMBOL": "ETH",
+    "SYMBOL": "SepoliaETH",
     "ID": 111555111
   },
   "NFT_NAME": "Eire Harvest",
