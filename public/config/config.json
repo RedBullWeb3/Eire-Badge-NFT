@@ -4,7 +4,7 @@
   "NETWORK": {
     "NAME": "Sepolia test network",
     "SYMBOL": "ETH",
-    "ID": 11155111
+    "ID": 42
   },
   "NFT_NAME": "EireHarvest",
   "SYMBOL": "EHH",
