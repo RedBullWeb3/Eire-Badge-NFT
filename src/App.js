@@ -255,7 +255,7 @@ function App() {
                   margin: "5px",
                 }}
               >
-                Mint on OmniSea!
+                Eire Harvest
               </StyledButton>
               <StyledButton
                 style={{
