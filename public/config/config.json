@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xE1AbE724C658E46613d5f5C9fD907E9A135704E1",
   "SCAN_LINK": "https://sepolia.etherscan.io/address/0xE1AbE724C658E46613d5f5C9fD907E9A135704E1",
   "NETWORK": {
-    "NAME": "Sepolia",
-    "SYMBOL": "SepoliaETH",
-    "ID": 11155111
+    "NAME": "zkSync Era Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 324
   },
   "NFT_NAME": "Eire Harvest",
   "SYMBOL": "EHH",
