@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x3BAEc5477b5C989c2b01A0bf3c6071391B715ED2",
   "SCAN_LINK": "https://explorer.zksync.io/address/0x3BAEc5477b5C989c2b01A0bf3c6071391B715ED2#contract",
   "NETWORK": {
-    "NAME": "zkSync",
+    "NAME": "zkSync Mainnet",
     "SYMBOL": "ETH",
     "ID": 324
   },
