@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xE1AbE724C658E46613d5f5C9fD907E9A135704E1",
   "SCAN_LINK": "https://sepolia.etherscan.io/address/0xE1AbE724C658E46613d5f5C9fD907E9A135704E1",
   "NETWORK": {
-    "NAME": "zkSync Era Mainnet",
+    "NAME": "zkSync",
     "SYMBOL": "ETH",
     "ID": 324
   },
