@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("/config/roadmap.pdf", "_blank");
+                  window.open("https://omnisea.org/jUovwshMe7b6YODPwhft", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Roadmap
+                Mint on OmniSea!
               </StyledButton>
               <StyledButton
                 style={{
