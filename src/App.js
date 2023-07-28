@@ -215,7 +215,7 @@ function App() {
             jc={"center"}
             ai={"center"}
             style={{
-              backgroundColor: "var(--accent)",
+              backgroundColor: "no colour",
               padding: 24,
               borderRadius: 24,
               border: "4px dashed var(--secondary)",
@@ -388,7 +388,7 @@ function App() {
                           getData();
                         }}
                       >
-                        {claimingNft ? "BUSY" : "BUY"}
+                        {claimingNft ? "TOO BUSY" : "BUY"}
                       </StyledButton>
                     </s.Container>
                   </>
@@ -411,7 +411,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "black",
+              color: "white",
             }}
           >
             Please make sure you are connected to the right network (
@@ -422,7 +422,7 @@ function App() {
           <s.TextDescription
             style={{
               textAlign: "center",
-              color: "var(--primary-text)",
+              color: "white",
             }}
           >
             We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
