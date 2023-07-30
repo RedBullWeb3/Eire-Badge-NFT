@@ -1,12 +1,12 @@
-# Eire Badge NFT minting dapp 🔥
+# Eire Harvest NFT minting dapp 🔥
 
-https://eire-badge-nft.vercel.app/
+https://eire.vercel.app/
 
 Alpha:
-![megaknft2](https://user-images.githubusercontent.com/65456462/177060321-b4456622-2aad-4b99-ad1e-15dfd9791621.png)
+
 
 Beta:
-![produkcja](https://user-images.githubusercontent.com/65456462/178069242-552e9084-d957-4498-988f-4487ecef8cf8.png)
+
 
 
 
@@ -21,7 +21,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/The-Stripes-NFT/nft-minting-app.git
+git clone https://github.com/RedBullWeb3/Eire-Badge-NFT.git
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
