@@ -417,9 +417,31 @@ function App() {
             
             Please make sure you are connected to the right network (
             {CONFIG.NETWORK.NAME} Mainnet) and the correct address. Please note:
-            Once you make the purchase, you cannot undo this action.</s.TextDescription>
->
-              As part of the "eIRE Harvest" collection, it is a testament to the bravery and spirit of warriors who embrace Ireland's rich cultural history and folklore. </s.TextDescription> >The collaboration with the National Collage of Ireland Crew adds prestige and significance to this artwork, making it a highly sought-after and exclusive digital collectible on the Ethereum blockchain. With its unique generative art design created by the HashLips Art Engine, "eIRE Harvest" is a masterpiece that celebrates the fusion of art, technology, and Irish cultural heritage. Collectors and enthusiasts alike can embrace this NFT as a symbol of Ireland's storied past and its vibrant future.</s.TextDescription>
+            Once you make the purchase, you cannot undo this action
+
+        
+          </s.TextDescription>
+          <s.SpacerSmall />
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "white",
+            }}
+          >
+            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
+            successfully mint your NFT. We recommend that you don't lower the
+            gas limit.
+          </s.TextDescription>
+        </s.Container>
+              <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+          <s.TextDescription
+            style={{
+              textAlign: "center",
+              color: "white",
+            }}
+          > 
+          
+              As part of the "eIRE Harvest" collection, it is a testament to the bravery and spirit of warriors who embrace Ireland's rich cultural history and folklore. The collaboration with the National Collage of Ireland Crew adds prestige and significance to this artwork, making it a highly sought-after and exclusive digital collectible on the Ethereum blockchain. With its unique generative art design created by the HashLips Art Engine, "eIRE Harvest" is a masterpiece that celebrates the fusion of art, technology, and Irish cultural heritage. Collectors and enthusiasts alike can embrace this NFT as a symbol of Ireland's storied past and its vibrant future.
           </s.TextDescription>
           <s.SpacerSmall />
           <s.TextDescription
