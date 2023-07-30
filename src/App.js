@@ -388,7 +388,7 @@ function App() {
                           getData();
                         }}
                       >
-                        {claimingNft ? "BUY AGAIN" : "BUY"}
+                        {claimingNft ? "TRY AGAIN" : "BUY"}
                       </StyledButton>
                     </s.Container>
                   </>
@@ -407,7 +407,7 @@ function App() {
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
-        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+        <s.Container jc={"center"} ai={"center"} style={{ width: "90%" }}>
           <s.TextDescription
             style={{
               textAlign: "center",
@@ -428,7 +428,8 @@ function App() {
               color: "white",
             }}
           >
-           Meonraí na hÉireann (Translation: "Mysteries of Ireland") - 2023
+
+            Mystical Knowledge of Eire - "Eagna Draíochtúil na hÉireann"
           </s.TextDescription>
         </s.Container>
               <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
@@ -448,9 +449,7 @@ function App() {
               color: "white",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+              The Cryptic Chronicles of Ireland - "Cláracha Críostaí na hÉireann"
           </s.TextDescription>
         </s.Container>
       </s.Container>
