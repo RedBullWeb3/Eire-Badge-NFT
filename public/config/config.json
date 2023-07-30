@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x3BAEc5477b5C989c2b01A0bf3c6071391B715ED2",
-  "SCAN_LINK": "https://explorer.zksync.io/address/0x3BAEc5477b5C989c2b01A0bf3c6071391B715ED2#contract",
+  "CONTRACT_ADDRESS": "0xe716f72d6c43bfb1a876d9843216bcc9019d8e9e",
+  "SCAN_LINK": "https://explorer.linea.build/token/0xE716F72D6c43bfb1A876d9843216bCC9019d8E9e/token-transfers",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Linea",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 59144
   },
   "NFT_NAME": "Eire Harvest",
   "SYMBOL": "EHH",
