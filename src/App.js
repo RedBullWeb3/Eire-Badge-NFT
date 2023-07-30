@@ -428,9 +428,7 @@ function App() {
               color: "white",
             }}
           >
-            We have set the gas limit to {CONFIG.GAS_LIMIT} for the contract to
-            successfully mint your NFT. We recommend that you don't lower the
-            gas limit.
+           Meonraí na hÉireann (Translation: "Mysteries of Ireland") - 2023
           </s.TextDescription>
         </s.Container>
               <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
