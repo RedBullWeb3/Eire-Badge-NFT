@@ -3,10 +3,11 @@
 https://eire.vercel.app/
 
 Alpha:
+![Zrzut ekranu 2023-07-27 145245](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/23817f8e-b48e-4ad2-a116-2d1f05d281aa)
 
 
 Beta:
-
+![Zrzut ekranu 2023-07-31 000128](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/a7976d8a-015a-45c5-a1d5-d58ff4ea1544)
 
 
 
@@ -21,7 +22,7 @@ The more complex route allows you to add additional functionality if you are com
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```sh
-git clone https://github.com/RedBullWeb3/Eire-Badge-NFT.git
+https://github.com/RedBullWeb3/Eire-Badge-NFT/tree/main
 ```
 
 Make sure you have node.js installed so you can use npm, then run:
@@ -42,21 +43,21 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
 
 ```json
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0xe716f72d6c43bfb1a876d9843216bcc9019d8e9e",
+  "SCAN_LINK": "https://explorer.linea.build/token/0xE716F72D6c43bfb1A876d9843216bCC9019d8E9e/token-transfers",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Linea",
+    "SYMBOL": "ETH",
+    "ID": 59144
   },
-  "NFT_NAME": "MegaKurs1.0 NFT",
-  "SYMBOL": "MegaK",
-  "MAX_SUPPLY": 992,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
-  "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/mega-kurs-nft",
+  "NFT_NAME": "Eire Harvest",
+  "SYMBOL": "EHH",
+  "MAX_SUPPLY": 431,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 28500000,
+  "MARKETPLACE": "eIRE Zk",
+  "MARKETPLACE_LINK": "https://omnisea.org/hqJXPqnPjdl9R2PBef1V",
   "SHOW_BACKGROUND": true
 }
 ```
@@ -85,16 +86,16 @@ Now you will need to create and change the `public/favicon.ico`, `public/logo192
 Remember to update the title and description the `public/index.html` file
 
 ```html
-<title>Mega Kurs 1.0</title>
-<meta name="description" content="Mint your MegaKurs NFT" />
+<title>Eire Harvest</title>
+<meta name="description" content="Mint your EireHarvest NFT" />
 ```
 
 Also remember to update the short_name and name fields in the `public/manifest.json` file
 
 ```json
 {
-  "short_name": "MEGAK",
-  "name": "Mega Kurs NFT"
+  "short_name": "EHH",
+  "name": "Eire Harvest"
 }
 ```
 
