@@ -45,6 +45,9 @@ To link up your existing smart contract, go to the `public/config/config.json` f
 
 Note: this dapp is designed to work with the intended NFT smart contract, that only takes one parameter in the mint function "mintAmount". But you can change that in the App.js file if you need to use a smart contract that takes 2 params.
 
+![Zrzut ekranu 2023-08-14 112011](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/01f20029-8a69-495d-9ec7-1bbeca270530)
+
+
 ```json
 {
   "CONTRACT_ADDRESS": "0xe716f72d6c43bfb1a876d9843216bcc9019d8e9e",
@@ -65,6 +68,7 @@ Note: this dapp is designed to work with the intended NFT smart contract, that o
   "SHOW_BACKGROUND": true
 }
 ```
+![1](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/14eea871-c95b-4a64-a64d-d04b359d6fc2)
 
 Make sure you copy the contract ABI from remix and paste it in the `public/config/abi.json` file.
 (follow the youtube video if you struggle with this part).
@@ -102,6 +106,8 @@ Also remember to update the short_name and name fields in the `public/manifest.j
   "name": "Eire Harvest"
 }
 ```
+![Zrzut ekranu 2023-08-13 164039](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/027b1a41-9c01-46f8-8108-dbd64402de68)
+
 
 After all the changes you can run.
 
@@ -118,3 +124,6 @@ npm run build
 Now you can host the contents of the build folder on a server.
 
 That's it! you're done.
+
+![Zrzut ekranu 2023-08-13 223617](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/b2ad10b2-f913-4615-9788-441feafbc1e8)
+
