@@ -1,6 +1,6 @@
-# Eire Harvest NFT minting dapp 🔥
+# Eire Harvest NFT Dapp 🔥
 
-https://eire.vercel.app/
+[https://eire.vercel.app/](https://eireharvestapp.vercel.app/)
 
 
 Alpha V1:
@@ -9,6 +9,7 @@ Alpha V1:
 
 Summit Deployment:
 ![Zrzut ekranu 2023-08-14 140544](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/962144da-0972-481d-97f4-1ff1c842ec16)
+![Zrzut ekranu 2023-08-14 141930](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/b1817833-aa2a-4774-af09-47560ee75b56)
 
 
 
