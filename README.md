@@ -2,16 +2,20 @@
 
 https://eire.vercel.app/
 
+![Kristof_female_irish_NFT_sticker_in_the_cartoon_celtic_art_colo_676b5041-e5bd-45ca-9f8f-2d5c6a170d15](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/2f56d700-4774-48be-8c63-e5f5be07235d)
+
+
 Alpha:
 ![Zrzut ekranu 2023-07-27 145245](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/23817f8e-b48e-4ad2-a116-2d1f05d281aa)
 
 
 Beta:
-![Zrzut ekranu 2023-07-31 000128](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/a7976d8a-015a-45c5-a1d5-d58ff4ea1544)
+![Zrzut ekranu 2023-08-14 140544](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/962144da-0972-481d-97f4-1ff1c842ec16)
 
 
 
-This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
+
+This repo provides a nice and easy way for linking an created NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
 The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).
 
