@@ -2,14 +2,12 @@
 
 https://eire.vercel.app/
 
-![Kristof_female_irish_NFT_sticker_in_the_cartoon_celtic_art_colo_676b5041-e5bd-45ca-9f8f-2d5c6a170d15](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/2f56d700-4774-48be-8c63-e5f5be07235d)
 
-
-Alpha:
+Alpha V1:
 ![Zrzut ekranu 2023-07-27 145245](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/23817f8e-b48e-4ad2-a116-2d1f05d281aa)
 
 
-Beta:
+Summit Deployment:
 ![Zrzut ekranu 2023-08-14 140544](https://github.com/RedBullWeb3/Eire-Badge-NFT/assets/65456462/962144da-0972-481d-97f4-1ff1c842ec16)
 
 
