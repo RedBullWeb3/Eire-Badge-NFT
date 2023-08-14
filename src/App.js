@@ -249,13 +249,13 @@ function App() {
             >
               <StyledButton
                 onClick={(e) => {
-                  window.open("https://omnisea.org/jUovwshMe7b6YODPwhft", "_blank");
+                  window.open("https://omnisea.org/hqJXPqnPjdl9R2PBef1V", "_blank");
                 }}
                 style={{
                   margin: "5px",
                 }}
               >
-                Eire Harvest
+                Mint on ZKsync
               </StyledButton>
               <StyledButton
                 style={{
